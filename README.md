@@ -6,7 +6,9 @@ comments : incomplete, bugs on tut source files
 
 
 
-
+### branch tddWithReactTestingLibrary.joke
+https://medium.freecodecamp.org/quick-guide-to-tdd-in-react-81888be67c64
+comments: not good tut, errors, omissions, deprecated, 
 
 
 
