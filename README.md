@@ -1,6 +1,8 @@
 # Test runs of various React & Redux testing strategies
 ## branches
 ### branch tddWithReactTestingLibrary
+https://dev.to/iwilsonq/how-to-build-sturdy-react-apps-with-tdd-using-jest-the-react-testing-library-52cn
+comments : incomplete, bugs on tut source files
 
 
 
